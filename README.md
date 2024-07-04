@@ -4,6 +4,11 @@ Baladity is a cutting-edge application designed to bridge the communication gap 
 
 ## Here is the demo of our application: [Baladity](https://www.youtube.com/watch?v=_SEiQ2j_JvM)
 
+## Cross Platform:
+1) [Web]([https://github.com/louatiakram/Baladity_Web](https://github.com/yassinezay/Baladity-web))
+2) [Mobile]([https://github.com/louatiakram/Baladity_Mobile](https://github.com/yassinezay/Baladity-mobile))
+3) [Desktop]([https://github.com/louatiakram/Baladity_Desktop](https://github.com/yassinezay/Baladity-desktop))
+
 Here are some screenshots of our application:
 
 <p align="center">
